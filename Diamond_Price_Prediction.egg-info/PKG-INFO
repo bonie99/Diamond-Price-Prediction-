@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Diamond-Price-Prediction
+Version: 0.0.0.0
+Author: BrainKimutai
+Author-email: korosbrian574@gmail.com
+Requires-Dist: Flask
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
