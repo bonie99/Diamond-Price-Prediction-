@@ -161,6 +161,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Brian Kimutai Siele (boniengechu99@gmail.com)
+boniface Ngechu - boniengechu99@gmail.com
 
 
