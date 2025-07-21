@@ -161,6 +161,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Brian Kimutai Siele - [@korosbrian574@gmail.com](korosbrian574@gmail.com)
+Brian Kimutai Siele (boniengechu99@gmail.com)
 
 
